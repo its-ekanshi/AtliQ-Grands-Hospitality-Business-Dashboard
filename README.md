@@ -34,5 +34,5 @@ This **Power BI dashboard** provides an in-depth analysis of key **hospitality b
 
 ---  
 
-## 📬 Connect with Me
-Feel free to connect with me on **[LinkedIn](https://www.linkedin.com/in/ekanshisaxena/)** or check out my **[GitHub](https://github.com/its-ekanshi/)** for more projects.
+## 📬 Connect with Me  
+Feel free to connect with me on **[LinkedIn](https://www.linkedin.com/in/ekanshisaxena/)** or explore more of my projects on **[GitHub](https://github.com/its-ekanshi)**.  
