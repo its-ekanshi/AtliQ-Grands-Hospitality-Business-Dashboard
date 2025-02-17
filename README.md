@@ -36,4 +36,4 @@ This **Power BI dashboard** provides an in-depth analysis of key **hospitality b
 
 ## 📞 Contact  
 📌 **GitHub:** [its-ekanshi](https://github.com/its-ekanshi)  
-📌 **LinkedIn:** [Ekanshi Saxena](https://www.linkedin.com/in/ekanshi-saxena/)  
+📌 **LinkedIn:** [Ekanshi Saxena](https://www.linkedin.com/in/ekanshisaxena/)  
